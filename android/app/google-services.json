@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1052723401606",
+    "project_id": "city-code-e5530",
+    "storage_bucket": "city-code-e5530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052723401606:android:2b6a48ac196b92c2cc9207",
+        "android_client_info": {
+          "package_name": "com.gss.citycode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052723401606-c2gh8lncqia86j27phs208okppeabcsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gss.citycode",
+            "certificate_hash": "0893be1fba37980ad1220eb5fb8b56d0eac42589"
+          }
+        },
+        {
+          "client_id": "1052723401606-8jee3n2h0qptkbeb2degg6cajpd2nn8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKu0d_MicjfP20fBQReGHq6UW8bduz_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052723401606-8jee3n2h0qptkbeb2degg6cajpd2nn8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1052723401606-g9t1tp2th6vm6dce1lut3kc2l6mipred.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.genius.citycode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
